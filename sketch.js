@@ -31,7 +31,10 @@ function draw()
     background("green");
   }
 
-
+  if (keyIsDown(RIGHT_ARROW)) 
+  {
+    background("red");
+  }
   
   drawSprites();
 }
