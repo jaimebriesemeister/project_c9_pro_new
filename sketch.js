@@ -10,9 +10,13 @@ function draw()
 {
 
   // escreva o código para alterar a cor de fundo 
-  // para vermelho quando a seta para direita (RIGHT_ARROW) for pressionada
+  // para vermelho quando a seta para direita (RIGHT_ARROW) for pressionadaREADME.md  
   
+  var gameState = "serve") {
+    background("red")
+    
   
+  }
 
   if (keyIsDown(LEFT_ARROW)) 
   {
